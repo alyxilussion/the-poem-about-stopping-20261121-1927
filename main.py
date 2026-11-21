@@ -11,8 +11,8 @@ mid-rush, mid-road.
 Nothing breaks. That is the shock:
 the world keeps humming
 and I am still here,
-hand on the wheel,
-choosing what stays.
+hand on the wheel —
+I keep what matters.
 Staying is not the car stalled.
 It is the same hand,
 choosing again
