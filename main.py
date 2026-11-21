@@ -12,11 +12,11 @@ Nothing breaks. That is the shock:
 the world keeps humming
 and I am still here,
 hand on the wheel,
-choosing the quiet.
+choosing what stays.
 Staying is not stuck.
 It is the same hand,
-holding the door
-for the life I meant."""
+choosing again
+the life I stopped for."""
 
 for _path in ("entry.txt", "/output/entry.txt"):
     try:
