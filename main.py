@@ -13,7 +13,7 @@ the world keeps humming
 and I am still here,
 hand on the wheel,
 choosing what stays.
-Staying is not stuck.
+Staying is not the car stalled.
 It is the same hand,
 choosing again
 the life I stopped for."""
